@@ -1,10 +1,16 @@
 {
   "name": "review-platforms",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "description": "A list of common review platforms, their logos and the background colors they should be displayed on",
   "main": "index.js",
-  "repository": "github.com/advocately/review-platforms",
+  "repository": "https://github.com/advocately/review-platforms",
   "author": "Lachlan Priest <lachlanpriest@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-minify": "^0.5.0"
+  }
 }
