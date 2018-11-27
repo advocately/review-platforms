@@ -104,7 +104,7 @@ export default [
     value: 'BookatableApp'
   },
   {
-    background: '#003580',
+    background: '#fff',
     homepageUrl: '',
     label: 'Booking.com',
     logo: './files/booking-logo.svg',
@@ -123,7 +123,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'BuildZoom',
-    logo: './files/buildzoom-logo.webp',
+    logo: './files/buildzoom-logo.png',
     profileUrl: '',
     value: 'BuildzoomApp'
   },
