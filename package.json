@@ -1,6 +1,6 @@
 {
   "name": "review-platforms",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A list of common review platforms, their logos and the background colors they should be displayed on",
   "main": "index.js",
   "repository": "https://github.com/advocately/review-platforms",
