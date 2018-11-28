@@ -402,10 +402,10 @@ export default [
     homepageUrl: '',
   },
   {
-    background: '#fff',
+    background: '#e15b4d',
     homepageUrl: '',
     label: 'Google+',
-    logo: './files/google-logo.svg',
+    logo: './files/googleplus-logo.svg',
     profileUrl: '',
     value: 'GoogleplusApp'
   },
