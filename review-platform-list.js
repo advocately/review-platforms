@@ -650,7 +650,7 @@ export default [
     value: 'MerchantcircleApp'
   },
   {
-    background: '',
+    background: '#F6F7F8',
     homepageUrl: '',
     label: 'MyBankTracker',
     logo: './files/mybanktracker-logo.png',
@@ -802,8 +802,8 @@ export default [
     value: 'ReviewsioApp'
   },
   {
-    background: '',
-    homepageUrl: '',
+    background: '#00a4a5',
+    homepageUrl: 'http://www.rentersvoice.com',
     label: 'RentersVoice',
     logo: './files/rentersvoice-logo.png',
     profileUrl: '',
@@ -899,8 +899,8 @@ export default [
     value: 'SquaremouthApp'
   },
   {
-    background: '',
-    homepageUrl: '',
+    background: '#000',
+    homepageUrl: 'https://www.stitcher.com',
     label: 'Stitcher',
     logo: './files/stitcher-logo.png',
     profileUrl: '',
