@@ -14,7 +14,7 @@ var filesToCopy = './logos/'
 
 // User's local directory
 // Warning: This assumes the package is installed into `node_modules/<package-name>/`
-var userPath = '../../public/assets/images/review-platforms/logos'
+var userPath = '../../public/assets/images/review-platforms/'
 
 // Moving files to user's local directory
 gentlyCopy(filesToCopy, userPath)
