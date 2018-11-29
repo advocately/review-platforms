@@ -3,7 +3,7 @@ export default [
     background: '#ffd502',
     homepageUrl: '',
     label: '192.com',
-    logo: './logos/192-logo.png',
+    logo: '/assets/images/review-platforms/logos/192-logo.png',
     profileUrl: 'https://www.192.com/business/custom-data/ugc/',
     value: '192App',
   },
@@ -11,7 +11,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: '411.ca',
-    logo: './logos/411-logo.svg',
+    logo: '/assets/images/review-platforms/logos/411-logo.svg',
     profileUrl: 'https://411.ca/business/profile/id',
     value: '411App',
   },
@@ -19,7 +19,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'A Place for Mom',
-    logo: './logos/aplaceformom-logo.svg',
+    logo: '/assets/images/review-platforms/logos/aplaceformom-logo.svg',
     profileUrl: 'https://www.aplaceformom.com/community/company-name',
     value: 'AplaceformomApp'
   },
@@ -27,7 +27,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'AirBNB',
-    logo: './logos/airbnb-logo.svg',
+    logo: '/assets/images/review-platforms/logos/airbnb-logo.svg',
     profileUrl: 'https://www.airbnb.com.sg/experiences/id',
     value: 'AirbnbApp'
   },
@@ -35,7 +35,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Amazon App Store',
-    logo: './logos/amazonappstore-logo.svg',
+    logo: '/assets/images/review-platforms/logos/amazonappstore-logo.svg',
     profileUrl: '',
     value: 'AmazonappstoreApp'
   },
@@ -43,7 +43,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Amazon Restaurants',
-    logo: './logos/amazon-logo.svg',
+    logo: '/assets/images/review-platforms/logos/amazon-logo.svg',
     profileUrl: 'https://amazon.com/restaurants/company-name/id',
     value: 'AmazonRestaurantsApp'
   },
@@ -51,7 +51,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Angie’s List',
-    logo: './logos/angieslist-logo.svg',
+    logo: '/assets/images/review-platforms/logos/angieslist-logo.svg',
     profileUrl: 'https://www.angieslist.com/companylist/country/state/city/company-name.htm',
     value: 'AngieslistApp'
   },
@@ -59,7 +59,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Apartment Guide',
-    logo: './logos/apartmentguide-logo.png',
+    logo: '/assets/images/review-platforms/logos/apartmentguide-logo.png',
     profileUrl: '',
     value: 'ApartmentGuideApp'
   },
@@ -67,7 +67,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'AutoMD',
-    logo: './logos/automd-logo.svg',
+    logo: '/assets/images/review-platforms/logos/automd-logo.svg',
     profileUrl: '',
     value: 'AutomdApp'
   },
@@ -75,7 +75,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Avvo',
-    logo: './logos/avvo-logo.svg',
+    logo: '/assets/images/review-platforms/logos/avvo-logo.svg',
     profileUrl: '',
     value: 'AvvoApp'
   },
@@ -83,7 +83,7 @@ export default [
     background: '#005A78',
     homepageUrl: '',
     label: 'BBB',
-    logo: './logos/bbb-logo.svg',
+    logo: '/assets/images/review-platforms/logos/bbb-logo.svg',
     profileUrl: '',
     value: 'BbbApp'
   },
@@ -91,7 +91,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'BedAndBreakfast.com',
-    logo: './logos/bedandbreakfast-logo.svg',
+    logo: '/assets/images/review-platforms/logos/bedandbreakfast-logo.svg',
     profileUrl: '',
     value: 'BedandbreakfastApp'
   },
@@ -99,7 +99,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Bing.com',
-    logo: './logos/bing-logo.svg',
+    logo: '/assets/images/review-platforms/logos/bing-logo.svg',
     profileUrl: '',
     value: 'BingApp'
   },
@@ -107,7 +107,7 @@ export default [
     background: '#2c393e',
     homepageUrl: '',
     label: 'Bookatable',
-    logo: './logos/bookatable-logo.svg',
+    logo: '/assets/images/review-platforms/logos/bookatable-logo.svg',
     profileUrl: '',
     value: 'BookatableApp'
   },
@@ -115,7 +115,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Booking.com',
-    logo: './logos/booking-logo.svg',
+    logo: '/assets/images/review-platforms/logos/booking-logo.svg',
     profileUrl: '',
     value: 'BookingApp'
   },
@@ -123,7 +123,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'BringFido',
-    logo: './logos/bringfido-logo.svg',
+    logo: '/assets/images/review-platforms/logos/bringfido-logo.svg',
     profileUrl: '',
     value: 'BringfidoApp'
   },
@@ -131,7 +131,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'BuildZoom',
-    logo: './logos/buildzoom-logo.png',
+    logo: '/assets/images/review-platforms/logos/buildzoom-logo.png',
     profileUrl: '',
     value: 'BuildzoomApp'
   },
@@ -139,7 +139,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Capterra',
-    logo: './logos/capterra-logo.svg',
+    logo: '/assets/images/review-platforms/logos/capterra-logo.svg',
     profileUrl: 'https://www.capterra.com/p/id/company_name/',
     value: 'CapterraApp',
     default: true
@@ -148,7 +148,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Caring.com',
-    logo: './logos/caring-logo.svg',
+    logo: '/assets/images/review-platforms/logos/caring-logo.svg',
     profileUrl: '',
     value: 'CaringApp'
   },
@@ -156,7 +156,7 @@ export default [
     background: '#fff',
     homepageUrl: 'https://chrome.google.com/webstore/category/extensions',
     label: 'Chrome Web Store',
-    logo: './logos/chromewebstore-logo.svg',
+    logo: '/assets/images/review-platforms/logos/chromewebstore-logo.svg',
     profileUrl: '',
     value: 'ChromeApp'
   },
@@ -165,14 +165,14 @@ export default [
     value: 'CitysearchApp',
     background: '',
     homepageUrl: '',
-    logo: './logos/citysearch-logo.svg',
+    logo: '/assets/images/review-platforms/logos/citysearch-logo.svg',
     profileUrl: ''
   },
   {
     background: '',
     homepageUrl: '',
     label: 'Clearsurance',
-    logo: './logos/clearsurance-logo.png',
+    logo: '/assets/images/review-platforms/logos/clearsurance-logo.png',
     profileUrl: '',
     value: 'ClearsuranceApp'
   },
@@ -180,7 +180,7 @@ export default [
     background: '#f5f5f5',
     homepageUrl: '',
     label: 'Clutch.co',
-    logo: './logos/clutch-logo.svg',
+    logo: '/assets/images/review-platforms/logos/clutch-logo.svg',
     profileUrl: '',
     value: 'ClutchApp'
   },
@@ -188,7 +188,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'ConsumerAffairs',
-    logo: './logos/consumeraffairs-logo.svg',
+    logo: '/assets/images/review-platforms/logos/consumeraffairs-logo.svg',
     profileUrl: '',
     value: 'ConsumeraffairsApp'
   },
@@ -196,7 +196,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Creditkarma',
-    logo: './logos/creditkarma-logo.svg',
+    logo: '/assets/images/review-platforms/logos/creditkarma-logo.svg',
     profileUrl: '',
     value: 'CreditkarmaApp'
   },
@@ -204,7 +204,7 @@ export default [
     background: '#0f0f0f',
     homepageUrl: '',
     label: 'Crowdreviews',
-    logo: './logos/crowdreviews-logo.svg',
+    logo: '/assets/images/review-platforms/logos/crowdreviews-logo.svg',
     profileUrl: '',
     value: 'CrowdreviewsApp'
   },
@@ -212,7 +212,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Customerlobby',
-    logo: './logos/customerlobby-logo.svg',
+    logo: '/assets/images/review-platforms/logos/customerlobby-logo.svg',
     profileUrl: '',
     value: 'CustomerlobbyApp'
   },
@@ -220,7 +220,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Dealerrater',
-    logo: './logos/dealerrater-logo.png',
+    logo: '/assets/images/review-platforms/logos/dealerrater-logo.png',
     profileUrl: '',
     value: 'DealerraterApp'
   },
@@ -228,7 +228,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'DexKnows',
-    logo: './logos/dexknows-logo.png',
+    logo: '/assets/images/review-platforms/logos/dexknows-logo.png',
     profileUrl: '',
     value: 'DexknowsApp'
   },
@@ -236,7 +236,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Dimmi',
-    logo: './logos/dimmi-logo.svg',
+    logo: '/assets/images/review-platforms/logos/dimmi-logo.svg',
     profileUrl: '',
     value: 'DimmiApp'
   },
@@ -244,7 +244,7 @@ export default [
     background: '#ba160c',
     homepageUrl: 'https://www.eat24.com',
     label: 'Eat24',
-    logo: './logos/eat24-logo.svg',
+    logo: '/assets/images/review-platforms/logos/eat24-logo.svg',
     profileUrl: '',
     value: 'Eat24App'
   },
@@ -252,7 +252,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Ebay',
-    logo: './logos/ebay-logo.svg',
+    logo: '/assets/images/review-platforms/logos/ebay-logo.svg',
     profileUrl: '',
     value: 'EbayApp'
   },
@@ -260,7 +260,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Etsy',
-    logo: './logos/etsy-logo.svg',
+    logo: '/assets/images/review-platforms/logos/etsy-logo.svg',
     profileUrl: '',
     value: 'EtsyApp'
   },
@@ -268,7 +268,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Expedia',
-    logo: './logos/expedia-logo.svg',
+    logo: '/assets/images/review-platforms/logos/expedia-logo.svg',
     profileUrl: '',
     value: 'ExpediaApp'
   },
@@ -276,7 +276,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'EZLocal',
-    logo: './logos/ezlocal-logo.png',
+    logo: '/assets/images/review-platforms/logos/ezlocal-logo.png',
     profileUrl: '',
     value: 'EzlocalApp'
   },
@@ -284,7 +284,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Facebook Reviews',
-    logo: './logos/facebook-logo.svg',
+    logo: '/assets/images/review-platforms/logos/facebook-logo.svg',
     profileUrl: '',
     value: 'FacebookApp',
     default: true
@@ -293,7 +293,7 @@ export default [
     background: '',
     homepageUrl: 'https://www.fertilityiq.com',
     label: 'FertilityIQ',
-    logo: './logos/fertilityiq-logo.svg',
+    logo: '/assets/images/review-platforms/logos/fertilityiq-logo.svg',
     profileUrl: '',
     value: 'FertilityiqApp'
   },
@@ -301,7 +301,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'FlipKey',
-    logo: './logos/flipkey-logo.svg',
+    logo: '/assets/images/review-platforms/logos/flipkey-logo.svg',
     profileUrl: '',
     value: 'FlipkeyApp'
   },
@@ -309,7 +309,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Foursquare',
-    logo: './logos/foursquare-logo.svg',
+    logo: '/assets/images/review-platforms/logos/foursquare-logo.svg',
     profileUrl: '',
     value: 'FoursquareApp'
   },
@@ -317,7 +317,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'FreeIndex',
-    logo: './logos/freeindex-logo.gif',
+    logo: '/assets/images/review-platforms/logos/freeindex-logo.gif',
     profileUrl: '',
     value: 'FreeindexApp'
   },
@@ -325,14 +325,14 @@ export default [
     background: '#456372',
     homepageUrl: '',
     label: 'G2crowd',
-    logo: './logos/g2crowd-logo.svg',
+    logo: '/assets/images/review-platforms/logos/g2crowd-logo.svg',
     profileUrl: '',
     value: 'G2crowdApp',
     default: true
   },{
     label: 'Gartner',
     value: 'GartnerApp',
-    logo: './logos/gartner-logo.svg',
+    logo: '/assets/images/review-platforms/logos/gartner-logo.svg',
     profileUrl: '',
     background: '#392a67',
     homepageUrl: '',
@@ -341,7 +341,7 @@ export default [
     background: '#689f38',
     homepageUrl: '',
     label: 'Getapp',
-    logo: './logos/getapp-logo.svg',
+    logo: '/assets/images/review-platforms/logos/getapp-logo.svg',
     profileUrl: 'https://www.getapp.com/category/a/company_name/',
     value: 'GetappApp',
     default: true
@@ -350,7 +350,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'GetYourGuide',
-    logo: './logos/getyourguide-logo.svg',
+    logo: '/assets/images/review-platforms/logos/getyourguide-logo.svg',
     profileUrl: '',
     value: 'GetyourguideApp'
   },
@@ -358,7 +358,7 @@ export default [
     background: '#0caa41',
     homepageUrl: 'https://www.glassdoor.com',
     label: 'GlassDoor',
-    logo: './logos/glassdoor-logo.svg',
+    logo: '/assets/images/review-platforms/logos/glassdoor-logo.svg',
     profileUrl: '',
     value: 'GlassdoorApp'
   },
@@ -366,7 +366,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Golden Reviews',
-    logo: './logos/goldenreviews-logo.png',
+    logo: '/assets/images/review-platforms/logos/goldenreviews-logo.png',
     profileUrl: '',
     value: 'GoldenreviewsApp'
   },
@@ -374,7 +374,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'GolfAdvisor',
-    logo: './logos/golfadvisor-logo.png',
+    logo: '/assets/images/review-platforms/logos/golfadvisor-logo.png',
     profileUrl: '',
     value: 'GolfadvisorApp'
   },
@@ -382,7 +382,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Goodreads',
-    logo: './logos/goodreads-logo.svg',
+    logo: '/assets/images/review-platforms/logos/goodreads-logo.svg',
     profileUrl: '',
     value: 'GoodreadsApp'
   },
@@ -390,13 +390,13 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Google Reviews',
-    logo: './logos/google-logo.svg',
+    logo: '/assets/images/review-platforms/logos/google-logo.svg',
     profileUrl: '',
     value: 'GoogleApp'
   },{
     label: 'Google Play Store',
     value: 'GooglePlayApp',
-    logo: './logos/googleplay-logo.svg',
+    logo: '/assets/images/review-platforms/logos/googleplay-logo.svg',
     profileUrl: '',
     background: '#fff',
     homepageUrl: '',
@@ -405,7 +405,7 @@ export default [
     background: '#e15b4d',
     homepageUrl: '',
     label: 'Google+',
-    logo: './logos/googleplus-logo.svg',
+    logo: '/assets/images/review-platforms/logos/googleplus-logo.svg',
     profileUrl: '',
     value: 'GoogleplusApp'
   },
@@ -413,7 +413,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'GreatSchools',
-    logo: './logos/greatschools-logo.png',
+    logo: '/assets/images/review-platforms/logos/greatschools-logo.png',
     profileUrl: '',
     value: 'GreatschoolsApp'
   },
@@ -421,7 +421,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Groupon',
-    logo: './logos/groupon-logo.svg',
+    logo: '/assets/images/review-platforms/logos/groupon-logo.svg',
     profileUrl: '',
     value: 'GrouponApp'
   },
@@ -429,7 +429,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Grubhub',
-    logo: './logos/grubhub-logo.svg',
+    logo: '/assets/images/review-platforms/logos/grubhub-logo.svg',
     profileUrl: '',
     value: 'GrubhubApp'
   },
@@ -437,7 +437,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Guides for Brides',
-    logo: './logos/guidesforbrides-logo.svg',
+    logo: '/assets/images/review-platforms/logos/guidesforbrides-logo.svg',
     profileUrl: '',
     value: 'GuidesforbridesApp'
   },
@@ -445,7 +445,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Guild Quality',
-    logo: './logos/guildquality-logo.svg',
+    logo: '/assets/images/review-platforms/logos/guildquality-logo.svg',
     profileUrl: '',
     value: 'GuildqualityApp'
   },
@@ -453,7 +453,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'HealthGrades',
-    logo: './logos/healthgrades-logo.svg',
+    logo: '/assets/images/review-platforms/logos/healthgrades-logo.svg',
     profileUrl: '',
     value: 'HealthgradesApp'
   },
@@ -461,7 +461,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Healthy Hearing',
-    logo: './logos/healthyhearing-logo.svg',
+    logo: '/assets/images/review-platforms/logos/healthyhearing-logo.svg',
     profileUrl: '',
     value: 'HealthyhearingApp'
   },
@@ -469,7 +469,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Home Advisor',
-    logo: './logos/homeadvisor-logo.svg',
+    logo: '/assets/images/review-platforms/logos/homeadvisor-logo.svg',
     profileUrl: '',
     value: 'HomeadvisorApp'
   },
@@ -477,7 +477,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'HomeAway',
-    logo: './logos/homeaway-logo.svg',
+    logo: '/assets/images/review-platforms/logos/homeaway-logo.svg',
     profileUrl: '',
     value: 'HomeawayApp'
   },
@@ -485,7 +485,7 @@ export default [
     background: '#0054a0',
     homepageUrl: 'https://www.homes.com',
     label: 'Homes.com',
-    logo: './logos/homescom-logo.svg',
+    logo: '/assets/images/review-platforms/logos/homescom-logo.svg',
     profileUrl: '',
     value: 'HomesApp'
   },
@@ -493,7 +493,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'HomeStars',
-    logo: './logos/homestars-logo.svg',
+    logo: '/assets/images/review-platforms/logos/homestars-logo.svg',
     profileUrl: '',
     value: 'HomestarsApp'
   },
@@ -501,7 +501,7 @@ export default [
     background: '#353c42',
     homepageUrl: 'https://www.hostelbookers.com',
     label: 'Hostelbookers',
-    logo: './logos/hostelbookers-logo.svg',
+    logo: '/assets/images/review-platforms/logos/hostelbookers-logo.svg',
     profileUrl: '',
     value: 'HostelbookersApp'
   },
@@ -509,7 +509,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Hostels.com',
-    logo: './logos/hostels-logo.png',
+    logo: '/assets/images/review-platforms/logos/hostels-logo.png',
     profileUrl: '',
     value: 'HostelsApp'
   },
@@ -517,7 +517,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Hostelworld',
-    logo: './logos/hostelworld-logo.svg',
+    logo: '/assets/images/review-platforms/logos/hostelworld-logo.svg',
     profileUrl: '',
     value: 'HostelworldApp'
   },
@@ -525,7 +525,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Hotels.com',
-    logo: './logos/hotels-logo.svg',
+    logo: '/assets/images/review-platforms/logos/hotels-logo.svg',
     profileUrl: '',
     value: 'HotelsApp'
   },
@@ -533,7 +533,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Houzz',
-    logo: './logos/houzz-logo.svg',
+    logo: '/assets/images/review-platforms/logos/houzz-logo.svg',
     profileUrl: '',
     value: 'HouzzApp'
   },
@@ -541,7 +541,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Indeed',
-    logo: './logos/indeed-logo.svg',
+    logo: '/assets/images/review-platforms/logos/indeed-logo.svg',
     profileUrl: '',
     value: 'IndeedApp'
   },
@@ -549,7 +549,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Innclusive',
-    logo: './logos/innclusive-logo.svg',
+    logo: '/assets/images/review-platforms/logos/innclusive-logo.svg',
     profileUrl: '',
     value: 'InnclusiveApp'
   },
@@ -557,7 +557,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Insider Pages',
-    logo: './logos/insiderpages-logo.svg',
+    logo: '/assets/images/review-platforms/logos/insiderpages-logo.svg',
     profileUrl: '',
     value: 'InsiderpagesApp'
   },
@@ -565,7 +565,7 @@ export default [
     background: '#7B3',
     homepageUrl: 'https://www.insuremytrip.com',
     label: 'InsureMyTrip',
-    logo: './logos/insuremytrip-logo.svg',
+    logo: '/assets/images/review-platforms/logos/insuremytrip-logo.svg',
     profileUrl: '',
     value: 'InsuremytripApp'
   },
@@ -573,7 +573,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'iOS App Store',
-    logo: './logos/ios-logo.svg',
+    logo: '/assets/images/review-platforms/logos/ios-logo.svg',
     profileUrl: '',
     value: 'IosApp'
   },
@@ -582,7 +582,7 @@ export default [
     value: 'JetApp',
     background: '',
     homepageUrl: 'https://www.jet.com',
-    logo: './logos/jet-logo.png',
+    logo: '/assets/images/review-platforms/logos/jet-logo.png',
     profileUrl: ''
   },
   {
@@ -590,7 +590,7 @@ export default [
     value: 'JudysbookApp',
     background: '',
     homepageUrl: '',
-    logo: './logos/judysbook-logo.png',
+    logo: '/assets/images/review-platforms/logos/judysbook-logo.png',
     profileUrl: ''
   },
   {
@@ -598,14 +598,14 @@ export default [
     value: 'KununuApp',
     background: 'https://www.kununu.com',
     homepageUrl: '',
-    logo: './logos/kununu-logo.png',
+    logo: '/assets/images/review-platforms/logos/kununu-logo.png',
     profileUrl: ''
   },
   {
     background: '',
     homepageUrl: '',
     label: 'LateRooms.com',
-    logo: './logos/laterooms-logo.svg',
+    logo: '/assets/images/review-platforms/logos/laterooms-logo.svg',
     profileUrl: '',
     value: 'LateroomsApp'
   },
@@ -613,7 +613,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Lawyers.com',
-    logo: './logos/lawyerscom-logo.png',
+    logo: '/assets/images/review-platforms/logos/lawyerscom-logo.png',
     profileUrl: '',
     value: 'LawyersApp'
   },
@@ -621,7 +621,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Magento',
-    logo: './logos/magento-logo.svg',
+    logo: '/assets/images/review-platforms/logos/magento-logo.svg',
     profileUrl: '',
     value: 'MagentoApp'
   },
@@ -629,7 +629,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Martindale-Hubbell',
-    logo: './logos/martindalehubbell-logo.jpg',
+    logo: '/assets/images/review-platforms/logos/martindalehubbell-logo.jpg',
     profileUrl: '',
     value: 'MartindaleApp'
   },
@@ -637,7 +637,7 @@ export default [
     background: '#000',
     homepageUrl: 'https://menupages.com',
     label: 'MenuPages',
-    logo: './logos/menupages-logo.svg',
+    logo: '/assets/images/review-platforms/logos/menupages-logo.svg',
     profileUrl: '',
     value: 'MenupagesApp'
   },
@@ -645,7 +645,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'MerchantCircle',
-    logo: './logos/merchantcircle-logo.svg',
+    logo: '/assets/images/review-platforms/logos/merchantcircle-logo.svg',
     profileUrl: '',
     value: 'MerchantcircleApp'
   },
@@ -653,7 +653,7 @@ export default [
     background: '#F6F7F8',
     homepageUrl: '',
     label: 'MyBankTracker',
-    logo: './logos/mybanktracker-logo.png',
+    logo: '/assets/images/review-platforms/logos/mybanktracker-logo.png',
     profileUrl: '',
     value: 'MybanktrackerApp'
   },
@@ -661,14 +661,14 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Newegg',
-    logo: './logos/newegg-logo.svg',
+    logo: '/assets/images/review-platforms/logos/newegg-logo.svg',
     profileUrl: '',
     value: 'NeweggApp'
   },{
     background: '',
     homepageUrl: '',
     label: 'Nextdoor',
-    logo: './logos/nextdoor-logo.svg',
+    logo: '/assets/images/review-platforms/logos/nextdoor-logo.svg',
     profileUrl: '',
     value: 'NextdoorApp'
   },
@@ -676,7 +676,7 @@ export default [
     background: '#59A44D',
     homepageUrl: 'https://www.niche.com',
     label: 'Niche',
-    logo: './logos/niche-logo.svg',
+    logo: '/assets/images/review-platforms/logos/niche-logo.svg',
     profileUrl: '',
     value: 'NicheApp'
   },
@@ -684,7 +684,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'OpenTable',
-    logo: './logos/opentable-logo.svg',
+    logo: '/assets/images/review-platforms/logos/opentable-logo.svg',
     profileUrl: '',
     value: 'OpentableApp'
   },
@@ -692,7 +692,7 @@ export default [
     background: '#00253c',
     homepageUrl: 'https://www.orbitz.com',
     label: 'Orbitz',
-    logo: './logos/orbitz-logo.svg',
+    logo: '/assets/images/review-platforms/logos/orbitz-logo.svg',
     profileUrl: '',
     value: 'OrbitzApp'
   },
@@ -700,7 +700,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'PCMag',
-    logo: './logos/pcmag-logo.svg',
+    logo: '/assets/images/review-platforms/logos/pcmag-logo.svg',
     profileUrl: '',
     value: 'PcmagApp'
   },
@@ -708,7 +708,7 @@ export default [
     background: '#0B1424',
     homepageUrl: '',
     label: 'PatientFusion',
-    logo: './logos/patientfusion-logo.svg',
+    logo: '/assets/images/review-platforms/logos/patientfusion-logo.svg',
     profileUrl: '',
     value: 'PatientfusionApp'
   },
@@ -716,7 +716,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'PeopleClaim',
-    logo: './logos/peopleclaim-logo.png',
+    logo: '/assets/images/review-platforms/logos/peopleclaim-logo.png',
     profileUrl: '',
     value: 'PeopleclaimApp'
   },
@@ -724,7 +724,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Pissed Consumer',
-    logo: './logos/pissedconsumer-logo.gif',
+    logo: '/assets/images/review-platforms/logos/pissedconsumer-logo.gif',
     profileUrl: '',
     value: 'PissedconsumerApp'
   },
@@ -732,7 +732,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Private School Review',
-    logo: './logos/privateschoolreview-logo.png',
+    logo: '/assets/images/review-platforms/logos/privateschoolreview-logo.png',
     profileUrl: '',
     value: 'PrivateschoolreviewApp'
   },
@@ -740,7 +740,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'ProductReview.com.au',
-    logo: './logos/productreview-logo.svg',
+    logo: '/assets/images/review-platforms/logos/productreview-logo.svg',
     profileUrl: '',
     value: 'ProductreviewApp'
   },
@@ -748,7 +748,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Quickbooks',
-    logo: './logos/quickbooks-logo.svg',
+    logo: '/assets/images/review-platforms/logos/quickbooks-logo.svg',
     profileUrl: '',
     value: 'QuickbooksApp',
     default: true
@@ -757,7 +757,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'RateMDs',
-    logo: './logos/ratemds-logo.svg',
+    logo: '/assets/images/review-platforms/logos/ratemds-logo.svg',
     profileUrl: '',
     value: 'RatemdsApp'
   },
@@ -765,7 +765,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'RateMyAgent',
-    logo: './logos/ratemyagent-logo.svg',
+    logo: '/assets/images/review-platforms/logos/ratemyagent-logo.svg',
     profileUrl: '',
     value: 'RatemyagentApp'
   },
@@ -773,7 +773,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'RealPatientRatings',
-    logo: './logos/realpatientratings-logo.png',
+    logo: '/assets/images/review-platforms/logos/realpatientratings-logo.png',
     profileUrl: '',
     value: 'RealpatientratingsApp'
   },
@@ -781,7 +781,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'RealSelf',
-    logo: './logos/realself-logo.svg',
+    logo: '/assets/images/review-platforms/logos/realself-logo.svg',
     profileUrl: '',
     value: 'RealselfApp'
   },
@@ -789,7 +789,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Rent',
-    logo: './logos/rentinc-logo.svg',
+    logo: '/assets/images/review-platforms/logos/rentinc-logo.svg',
     profileUrl: '',
     value: 'RentincApp'
   },
@@ -797,7 +797,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Reviews',
-    logo: './logos/reviewsio-logo.svg',
+    logo: '/assets/images/review-platforms/logos/reviewsio-logo.svg',
     profileUrl: '',
     value: 'ReviewsioApp'
   },
@@ -805,7 +805,7 @@ export default [
     background: '#00a4a5',
     homepageUrl: 'http://www.rentersvoice.com',
     label: 'RentersVoice',
-    logo: './logos/rentersvoice-logo.png',
+    logo: '/assets/images/review-platforms/logos/rentersvoice-logo.png',
     profileUrl: '',
     value: 'RentersvoiceApp'
   },
@@ -813,7 +813,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'RepairPal',
-    logo: './logos/repairpal-logo.svg',
+    logo: '/assets/images/review-platforms/logos/repairpal-logo.svg',
     profileUrl: '',
     value: 'RepairpalApp'
   },
@@ -821,7 +821,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'ResellerRatings',
-    logo: './logos/resellerratings-logo.svg',
+    logo: '/assets/images/review-platforms/logos/resellerratings-logo.svg',
     profileUrl: '',
     value: 'ResellerratingsApp'
   },
@@ -829,7 +829,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Seamless',
-    logo: './logos/seamless-logo.svg',
+    logo: '/assets/images/review-platforms/logos/seamless-logo.svg',
     profileUrl: '',
     value: 'SeamlessApp'
   },
@@ -837,7 +837,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Serchen',
-    logo: './logos/serchen-logo.png',
+    logo: '/assets/images/review-platforms/logos/serchen-logo.png',
     profileUrl: '',
     value: 'SerchenApp'
   },
@@ -845,7 +845,7 @@ export default [
     background: '#000',
     homepageUrl: '',
     label: 'Shopify',
-    logo: './logos/shopify-logo.svg',
+    logo: '/assets/images/review-platforms/logos/shopify-logo.svg',
     profileUrl: '',
     value: 'ShopifyApp',
     default: true
@@ -854,7 +854,7 @@ export default [
     background: '',
     homepageUrl: 'https://www.shopperapproved.com',
     label: 'Shopper Approved',
-    logo: './logos/shopperapproved-logo.png',
+    logo: '/assets/images/review-platforms/logos/shopperapproved-logo.png',
     profileUrl: '',
     value: 'ShopperapprovedApp'
   },
@@ -862,7 +862,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'SiteJabber',
-    logo: './logos/sitejabber-logo.svg',
+    logo: '/assets/images/review-platforms/logos/sitejabber-logo.svg',
     profileUrl: '',
     value: 'SitejabberApp'
   },
@@ -870,7 +870,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Smith',
-    logo: './logos/gosmith-logo.png',
+    logo: '/assets/images/review-platforms/logos/gosmith-logo.png',
     profileUrl: '',
     value: 'GosmithApp'
   },
@@ -878,7 +878,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Snap21',
-    logo: './logos/snap21-logo.png',
+    logo: '/assets/images/review-platforms/logos/snap21-logo.png',
     profileUrl: '',
     value: 'Snap21App'
   },
@@ -886,7 +886,7 @@ export default [
     background: '#333',
     homepageUrl: '',
     label: 'SoftwareAdvice',
-    logo: './logos/softwareadvice-logo.png',
+    logo: '/assets/images/review-platforms/logos/softwareadvice-logo.png',
     profileUrl: '',
     value: 'SoftwareadviceApp'
   },
@@ -894,7 +894,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'SquareMouth',
-    logo: './logos/squaremouth-logo.svg',
+    logo: '/assets/images/review-platforms/logos/squaremouth-logo.svg',
     profileUrl: '',
     value: 'SquaremouthApp'
   },
@@ -902,7 +902,7 @@ export default [
     background: '#000',
     homepageUrl: 'https://www.stitcher.com',
     label: 'Stitcher',
-    logo: './logos/stitcher-logo.png',
+    logo: '/assets/images/review-platforms/logos/stitcher-logo.png',
     profileUrl: '',
     value: 'StitcherApp'
   },
@@ -910,7 +910,7 @@ export default [
     background: '#06a9db',
     homepageUrl: 'https://www.supermoney.com',
     label: 'SuperMoney',
-    logo: './logos/supermoney-logo.svg',
+    logo: '/assets/images/review-platforms/logos/supermoney-logo.svg',
     profileUrl: '',
     value: 'SupermoneyApp'
   },
@@ -918,7 +918,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'SuperPages',
-    logo: './logos/superpages-logo.svg',
+    logo: '/assets/images/review-platforms/logos/superpages-logo.svg',
     profileUrl: '',
     value: 'SuperpagesApp'
   },
@@ -926,7 +926,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'SureCritic',
-    logo: './logos/surecritic-logo.svg',
+    logo: '/assets/images/review-platforms/logos/surecritic-logo.svg',
     profileUrl: '',
     value: 'SurecriticApp'
   },
@@ -934,7 +934,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'The Knot',
-    logo: './logos/theknot-logo.svg',
+    logo: '/assets/images/review-platforms/logos/theknot-logo.svg',
     profileUrl: '',
     value: 'TheknotApp'
   },
@@ -942,7 +942,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Thumbtack',
-    logo: './logos/thumbtack-logo.svg',
+    logo: '/assets/images/review-platforms/logos/thumbtack-logo.svg',
     profileUrl: '',
     value: 'ThumbtackApp'
   },
@@ -950,7 +950,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'TourRadar',
-    logo: './logos/tourradar-logo.svg',
+    logo: '/assets/images/review-platforms/logos/tourradar-logo.svg',
     profileUrl: '',
     value: 'TourradarApp'
   },
@@ -958,7 +958,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Transport Rankings',
-    logo: './logos/transportrankings-logo.png',
+    logo: '/assets/images/review-platforms/logos/transportrankings-logo.png',
     profileUrl: '',
     value: 'TransportrankingsApp'
   },
@@ -966,7 +966,7 @@ export default [
     background: '#004074',
     homepageUrl: '',
     label: 'Travelocity',
-    logo: './logos/travelocity-logo.svg',
+    logo: '/assets/images/review-platforms/logos/travelocity-logo.svg',
     profileUrl: '',
     value: 'TravelocityApp'
   },
@@ -974,7 +974,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Trip.com',
-    logo: './logos/tripcom-logo.svg',
+    logo: '/assets/images/review-platforms/logos/tripcom-logo.svg',
     profileUrl: '',
     value: 'TripApp'
   },
@@ -982,7 +982,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'TripAdvisor',
-    logo: './logos/tripadvisor-logo.svg',
+    logo: '/assets/images/review-platforms/logos/tripadvisor-logo.svg',
     profileUrl: '',
     value: 'TripadvisorApp'
   },
@@ -990,7 +990,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'True Local',
-    logo: './logos/truelocal-logo.svg',
+    logo: '/assets/images/review-platforms/logos/truelocal-logo.svg',
     profileUrl: '',
     value: 'TruelocalApp'
   },
@@ -998,7 +998,7 @@ export default [
     background: '#000032',
     homepageUrl: '',
     label: 'Trustpilot',
-    logo: './logos/trustpilot-logo.svg',
+    logo: '/assets/images/review-platforms/logos/trustpilot-logo.svg',
     profileUrl: '',
     value: 'TrustpilotApp'
   },
@@ -1006,7 +1006,7 @@ export default [
     background: '#1e709d',
     homepageUrl: '',
     label: 'TrustRadius',
-    logo: './logos/trustradius-logo.svg',
+    logo: '/assets/images/review-platforms/logos/trustradius-logo.svg',
     profileUrl: '',
     value: 'TrustradiusApp'
   },
@@ -1014,7 +1014,7 @@ export default [
     background: '#45474d',
     homepageUrl: '',
     label: 'Xero',
-    logo: './logos/xero-logo.svg',
+    logo: '/assets/images/review-platforms/logos/xero-logo.svg',
     profileUrl: '',
     value: 'XeroApp',
     default: true
@@ -1023,7 +1023,7 @@ export default [
     background: '#007D9E',
     homepageUrl: 'https://www.viator.com',
     label: 'Viator',
-    logo: './logos/viator-logo.svg',
+    logo: '/assets/images/review-platforms/logos/viator-logo.svg',
     profileUrl: '',
     value: 'ViatorApp'
   },
@@ -1031,7 +1031,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Viewpoints',
-    logo: './logos/viewpoints-logo.png',
+    logo: '/assets/images/review-platforms/logos/viewpoints-logo.png',
     profileUrl: '',
     value: 'ViewpointsApp'
   },
@@ -1039,7 +1039,7 @@ export default [
     background: '#fff',
     homepageUrl: 'https://www.vitals.com',
     label: 'Vitals',
-    logo: './logos/vitals-logo.svg',
+    logo: '/assets/images/review-platforms/logos/vitals-logo.svg',
     profileUrl: '',
     value: 'VitalsApp'
   },
@@ -1047,7 +1047,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'VouchedFor',
-    logo: './logos/vouchedfor-logo.svg',
+    logo: '/assets/images/review-platforms/logos/vouchedfor-logo.svg',
     profileUrl: '',
     value: 'VouchedforApp'
   },
@@ -1055,7 +1055,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'VRBO',
-    logo: './logos/vrbo-logo.svg',
+    logo: '/assets/images/review-platforms/logos/vrbo-logo.svg',
     profileUrl: '',
     value: 'VrboApp'
   },
@@ -1063,7 +1063,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'WebMD',
-    logo: './logos/webmd-logo.svg',
+    logo: '/assets/images/review-platforms/logos/webmd-logo.svg',
     profileUrl: '',
     value: 'WebmdApp'
   },
@@ -1071,7 +1071,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'WeddingWire',
-    logo: './logos/weddingwire-logo.svg',
+    logo: '/assets/images/review-platforms/logos/weddingwire-logo.svg',
     profileUrl: '',
     value: 'WeddingwireApp'
   },
@@ -1079,7 +1079,7 @@ export default [
     background: '#fff',
     homepageUrl: '',
     label: 'Wellness.com',
-    logo: './logos/wellnesscom-logo.png',
+    logo: '/assets/images/review-platforms/logos/wellnesscom-logo.png',
     profileUrl: '',
     value: 'WellnessApp'
   },
@@ -1087,7 +1087,7 @@ export default [
     background: '#3399cc',
     homepageUrl: 'https://www.whatclinic.com',
     label: 'WhatClinic',
-    logo: './logos/whatclinic-logo.svg',
+    logo: '/assets/images/review-platforms/logos/whatclinic-logo.svg',
     profileUrl: '',
     value: 'WhatclinicApp'
   },
@@ -1095,7 +1095,7 @@ export default [
     background: '#fff',
     homepageUrl: 'https://www.wordofmouth.com.au',
     label: 'Word of Mouth',
-    logo: './logos/wordofmouth-logo.svg',
+    logo: '/assets/images/review-platforms/logos/wordofmouth-logo.svg',
     profileUrl: '',
     value: 'WordofmouthApp'
   },
@@ -1103,7 +1103,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'WordPress',
-    logo: './logos/wordpress-logo.svg',
+    logo: '/assets/images/review-platforms/logos/wordpress-logo.svg',
     profileUrl: '',
     value: 'WordpressApp'
   },
@@ -1111,7 +1111,7 @@ export default [
     background: '#689f38',
     homepageUrl: 'https://www.yelp.com',
     label: 'Yelp',
-    logo: './logos/yelp-logo.svg',
+    logo: '/assets/images/review-platforms/logos/yelp-logo.svg',
     profileUrl: '',
     value: 'YelpApp'
   },
@@ -1119,7 +1119,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Yellow Pages',
-    logo: './logos/yp-logo.svg',
+    logo: '/assets/images/review-platforms/logos/yp-logo.svg',
     profileUrl: '',
     value: 'YellowpagesApp'
   },
@@ -1127,7 +1127,7 @@ export default [
     background: '',
     homepageUrl: 'https://www.zagat.com',
     label: 'Zagat',
-    logo: './logos/zagat-logo.svg',
+    logo: '/assets/images/review-platforms/logos/zagat-logo.svg',
     profileUrl: '',
     value: 'ZagatApp'
   },
@@ -1135,7 +1135,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Zocdoc',
-    logo: './logos/zocdoc-logo.png',
+    logo: '/assets/images/review-platforms/logos/zocdoc-logo.png',
     profileUrl: '',
     value: 'ZocdocApp'
   },
@@ -1143,7 +1143,7 @@ export default [
     background: '',
     homepageUrl: '',
     label: 'Zomato',
-    logo: './logos/zomato-logo.svg',
+    logo: '/assets/images/review-platforms/logos/zomato-logo.svg',
     profileUrl: '',
     value: 'ZomatoApp'
   }
