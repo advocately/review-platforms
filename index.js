@@ -400,6 +400,13 @@ export default [
     profileUrl: '',
     background: '#fff',
     homepageUrl: '',
+  },{
+    label: 'G Suite Marketplace',
+    value: 'GsuiteApp',
+    logo: '/assets/images/review-platforms/logos/gsuite-logo.svg',
+    profileUrl: '',
+    background: '#fff',
+    homepageUrl: '',
   },
   {
     background: '#e15b4d',
